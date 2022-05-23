@@ -1,0 +1,53 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div class="container stackable">
+    <div class="ui menu text column centered grid top fixed stackable">
+        <a class="active item">Home</a>
+        <a class="ui simple dropdown item">
+        Institucional <i class="dropdown icon"></i>
+            <div class="menu">
+                <div class="header">Quem Somos</div>
+                <div class="item">Sobre a Fatec</div>
+                <div class="item">Regimento e Regulamento</div>
+                <div class="divider"></div>
+                <div class="header">Departamentos</div>
+                <div class="item">Direção</div>
+                <div class="item">Coordenação de Cursos</div>
+                <div class="item">Diretoria de Serviços Acadêmicos</div>
+                <div class="item">Diretoria de Serviços Administrativos</div>
+                <div class="item">Centro de Informatica</div>
+                <div class="item">Biblioteca</div>
+                <div class="divider"></div>
+                <div class="item">CIPA</div>
+                <div class="item">Horários de Funcionamento</div>
+            </div>
+        </a>
+        <div class="ui simple dropdown item">
+        Secretaria <i class="dropdown icon"></i>
+            <div class="menu">
+                <a class="item">Informações Gerais</a>
+                <a class="item">Documentos e Modelos</a>
+                <a class="item">Perguntas Frequentes</a>
+                <a class="item">Requerimentos</a>
+            </div>
+        </div>
+        <div class="ui simple dropdown item">
+        Calendário/Aulas <i class="dropdown icon"></i>
+            <div class="menu">
+                <div class="item">Horários Aulas</div>
+                <div class="item">Calendário Acadêmico</div>
+                <div class="item">Professores</div>
+            </div>
+        </div>
+        <div class="ui simple dropdown item">
+        Sites <i class="dropdown icon"></i>
+            <div class="menu">
+                <div class="item" href="http://www.fatecpg.com.br/tic/default.aspx" target="_blank">DTI</div>
+                <div class="item" href="https://edu.google.com/" target="_blank">Google for Education</div>
+            </div>
+        </div>
+        <a href="https://fatecpg.edu.br/revista" target="_blank" class="item">Revista</a>
+        <a href="#" class="item">Núcleos de Pesquisa</a>
+        <a href="#" class="item">Vitrine de Negócios</a>
+    </div>
+</div>
