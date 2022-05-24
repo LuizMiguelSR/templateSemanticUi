@@ -1,17 +1,4 @@
 <%-- any content can be specified here e.g.: --%>
 <%@ page pageEncoding="UTF-8" %>
 <!-- CSS SemanticUi -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
-<link href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.11.8/semantic.min.css" rel="stylesheet"/>
-<style>
-    .my-content .ui.segment{
-      min-height:500px;
-      height:100%;
-    }
-    .ui.grid{
-      padding:0 !important;
-    }
-    .pushable.segment{
-      margin:0 !important;
-    }
-</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" type="text/css"/>
