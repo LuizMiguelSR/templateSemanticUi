@@ -27,7 +27,7 @@
         <div class="ui fluid container stackable" >
             <img class="ui fluid image stackable" src="https://images2.imgbox.com/05/9e/e0BRxl8y_o.jpg" style="opacity: 0.9;">                   
             <img class="ui stackable" src="https://github.com/LuizMiguelSR/templateBootStrap/blob/main/img/fatecPgCl.png?raw=true" style="position: absolute; top: 100px; left: 270px; width: 150px;">
-            <div class="ui inverted secondary pointing massive menu" style="position: absolute; top: 75px; right: 270px; border: none">
+            <div class="ui inverted stackable secondary pointing massive menu" style="position: absolute; top: 75px; right: 270px; border: none">
                 <a class="item">Home</a>
                 <a class="item">Messages</a>
                 <a class="item active">Friends</a>
