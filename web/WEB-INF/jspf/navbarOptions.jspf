@@ -1,0 +1,56 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div class="ui stackable">
+    <div class="sticky">
+        <div class="ui container stackable">
+            <div class="ui text menu">
+                <div class="ui simple dropdown item">
+                Institucional
+                <i class="dropdown icon"></i>
+                    <div class="menu">
+                        <div class="header">Quem Somos</div>
+                        <div class="item" href="">Sobre a Fatec</div>
+                        <div class="item" href="">Regimento e Regulamento</div>
+                        <div class="header">Departamentos</div>
+                        <div class="item" href="">Direção</div>
+                        <div class="item" href="">Coordenação de Cursos</div>
+                        <div class="item" href="">Diretoria de Serviços Acadêmicos</div>
+                        <div class="item" href="">Diretoria de Serviços Administrativos</div>
+                        <div class="item" href="">Centro de Informática</div>
+                        <div class="item" href="">Biblioteca</div>
+                        <div class="item" href="">CIPA</div>
+                        <div class="item" href="">Horários de Funcionamento</div>
+                    </div>
+                </div>
+                <div class="ui simple dropdown item">
+                Secretaria
+                <i class="dropdown icon"></i>
+                    <div class="menu shadow">
+                        <div class="item" href="">Informações Gerais</div>
+                        <div class="item" href="">Documentos e Modelos</div>
+                        <div class="item" href="">Perguntas Frequentes</div>
+                        <div class="item" href="">Requerimentos</div>
+                    </div>
+                </div>
+                <div class="ui simple dropdown item">
+                Calendário/Aulas
+                <i class="dropdown icon"></i>
+                    <div class="menu">
+                        <div class="item" href="">Horários Aulas</div>
+                        <div class="item" href="">Calendário Acadêmico</div>
+                        <div class="item" href="">Professores</div>
+                    </div>
+                </div>
+                <div class="ui simple dropdown item">
+                Sites
+                <i class="dropdown icon"></i>
+                    <div class="menu">
+                        <div class="item" href="http://www.fatecpg.com.br/tic/default.aspx" target="_blank">DTI</div>
+                        <div class="item" href="https://edu.google.com/" target="_blank">Google for Education</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,27 +1,20 @@
 <%-- any content can be specified here e.g.: --%>
 <%@ page pageEncoding="UTF-8" %>
-<div class="ui inverted menu two column grid stackable top fixed shadow ">
+<div class="ui inverted menu two column grid stackable top fixed shadow">
     <div class="ui container shadow stackable">
-        <a class="item">Home</a>
-        <div class="ui pointing simple dropdown link item shadow stackable">
-            <span class="text">Shopping</span>
-            <i class="dropdown icon"></i>
-            <div class="menu stackable">
-                <div class="header">Categories</div>
-                <div class="item">Home Goods</div>
-                <div class="item">Bedroom</div>
-                <div class="divider"></div>
-                <div class="header">Order</div>
-                <div class="item">Status</div>
-                <div class="item">Cancellations</div>
-            </div>
-        </div>
-        <a class="item">Forums</a>
-        <a class="item">Contact Us</a>
+        <img class="ui stackable" src="https://github.com/LuizMiguelSR/templateBootStrap/blob/main/img/fatecPgWhite.png?raw=true" style="width: 75px; margin-top: 10px; margin-right: 10px">
+        <a class="item" href="">Home</a>
+        <a class="item" href="" target="_blank">Núcleos de Pesquisa </a>
+        <a class="item" href="" target="_blank">Vitrine de Negócios </a>
+        <a class="item" href="https://fatecpg.edu.br/revista" target="_blank">Revista Processando o Saber </a>
+        <a class="item" href="" target="_blank">SiteMap </a>
         <div class="right item stackable">
-            <div class="ui inverted transparent icon input stackable">
+            <div class="ui large inverted transparent icon input stackable">
                 <input type="text" placeholder="Procurar...">
                 <i class="search icon stackable"></i>
+            </div>
+            </div>
+                <a class="ui item" href="">Login</a>
             </div>
         </div>
     </div>    
