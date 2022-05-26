@@ -41,50 +41,50 @@
             </h2>
            <div class="ui link cards centered" style="margin-top: 35px">
                 <div class="card">
-                  <div class="image">
-                    <img src="https://fatecpg.edu.br/img/upload/slider-2022.03.08-14.22.22jpeg">
-                  </div>
-                  <div class="content">
-                    <div class="header">Matt Giampietro</div>
-                    <div class="meta">
-                      <a>Friends</a>
+                    <div class="image">
+                        <img src="https://fatecpg.edu.br/img/upload/slider-2022.03.08-14.22.22jpeg">
                     </div>
-                    <div class="description">
-                      Matthew is an interior designer living in New York.
+                    <div class="content">
+                        <div class="header">Matt Giampietro</div>
+                        <div class="meta">
+                            <a>Friends</a>
+                        </div>
+                        <div class="description">
+                            Matthew is an interior designer living in New York.
+                        </div>
                     </div>
-                  </div>
                   <div class="extra content">
-                    <span class="right floated">
-                      Joined in 2013
-                    </span>
-                    <span>
-                      <i class="user icon"></i>
-                      75 Friends
-                    </span>
+                        <span class="right floated">
+                            Joined in 2013
+                        </span>
+                        <span>
+                            <i class="user icon"></i>
+                            75 Friends
+                        </span>
                   </div>
                 </div>
                 <div class="card">
-                  <div class="image">
-                    <img src="https://fatecpg.edu.br/img/upload/slider-2022.04.07-08.58.28jpeg">
-                  </div>
-                  <div class="content">
-                    <div class="header">Molly</div>
-                    <div class="meta">
-                      <span class="date">Coworker</span>
+                    <div class="image">
+                        <img src="https://fatecpg.edu.br/img/upload/slider-2022.04.07-08.58.28jpeg">
                     </div>
-                    <div class="description">
-                      Molly is a personal assistant living in Paris.
+                    <div class="content">
+                        <div class="header">Molly</div>
+                        <div class="meta">
+                            <span class="date">Coworker</span>
+                        </div>
+                        <div class="description">
+                            Molly is a personal assistant living in Paris.
+                        </div>
                     </div>
-                  </div>
-                  <div class="extra content">
-                    <span class="right floated">
-                      Joined in 2011
-                    </span>
-                    <span>
-                      <i class="user icon"></i>
-                      35 Friends
-                    </span>
-                  </div>
+                    <div class="extra content">
+                        <span class="right floated">
+                            Joined in 2011
+                        </span>
+                        <span>
+                            <i class="user icon"></i>
+                            35 Friends
+                        </span>
+                    </div>
                 </div>
                 <div class="card">
                   <div class="image">
@@ -135,6 +135,31 @@
               </div>
         </div>
         
+        <div class="ui container centered grid stackable" style="margin-top: 50px">
+            <h2 class="ui header centered">
+            <i class="bullhorn icon centered"></i>
+                <div class="content centered">
+                Fala Fatecano
+                </div>
+            </h2>
+        </div>
+        <div class="ui vertical stripe quote segment grid" style="margin-top: 50px">
+
+            <div class="ui equal width stackable internally celled grid">
+                <div class="center aligned row">
+                    <div class="column">
+                        <h3>"What a Company"</h3>
+                        <p>That is what they all say about us</p>
+                    </div>
+                    <div class="column">
+                        <h3>"I shouldn't have gone with their competitor."</h3>
+                        <p>
+                            <img src="assets/images/avatar/nan.jpg" class="ui avatar image"> <b>Nan</b> Chief Fun Officer Acme Toys
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
 
     </body>
 </html>

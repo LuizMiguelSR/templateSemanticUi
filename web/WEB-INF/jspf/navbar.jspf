@@ -8,14 +8,6 @@
         <a class="item" href="" target="_blank">Vitrine de Negócios </a>
         <a class="item" href="https://fatecpg.edu.br/revista" target="_blank">Revista Processando o Saber </a>
         <a class="item" href="" target="_blank">SiteMap </a>
-        <div class="right item stackable">
-            <div class="ui large inverted transparent icon input stackable">
-                <input type="text" placeholder="Procurar...">
-                <i class="search icon stackable"></i>
-            </div>
-            </div>
-                <a class="ui item" href="">Login</a>
-            </div>
-        </div>
+        <a class="ui item" href="">Login </a>
     </div>    
 </div>
