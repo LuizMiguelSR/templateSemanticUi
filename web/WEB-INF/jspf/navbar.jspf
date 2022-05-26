@@ -1,13 +1,13 @@
 <%-- any content can be specified here e.g.: --%>
 <%@ page pageEncoding="UTF-8" %>
-<div class="ui inverted menu two column grid stackable top fixed shadow">
-    <div class="ui container shadow stackable">
-        <img class="ui stackable" src="https://github.com/LuizMiguelSR/templateBootStrap/blob/main/img/fatecPgWhite.png?raw=true" style="width: 75px; margin-top: 10px; margin-right: 10px">
-        <a class="item" href="">Home</a>
-        <a class="item" href="" target="_blank">Núcleos de Pesquisa </a>
-        <a class="item" href="" target="_blank">Vitrine de Negócios </a>
+<div class="ui inverted menu stackable">
+    <div class="ui container stackable">
+        <img class="ui stackable" src="https://github.com/LuizMiguelSR/templateBootStrap/blob/main/img/fatecPgWhite.png?raw=true" style="width: 95px; margin-top: 10px; margin-right: 10px">            
+        <a class="item" href="" target="_blank">Núcleos de Pesquisa</a>
+        <a class="item" href="" target="_blank">Vitrine de Negócios</a>
         <a class="item" href="https://fatecpg.edu.br/revista" target="_blank">Revista Processando o Saber </a>
-        <a class="item" href="" target="_blank">SiteMap </a>
-        <a class="ui item" href="">Login </a>
+        <div class="right menu">
+            <a class="item" id="test">Login</a>
+        </div>
     </div>    
 </div>
