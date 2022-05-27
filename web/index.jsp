@@ -29,32 +29,35 @@
         </div>
         
         <%@include file="WEB-INF/jspf/navbarOptions.jspf" %>
-        <div class="ui modal test">
-            <i class="close icon"></i>
-            <div class="header">
+        
+        <!-- Modal Login -->
+        <div class="ui modal test stackable">
+            <i class="close icon stackable"></i>
+            <div class="header stackable">
                 Profile Picture
             </div>
-            <div class="image content">
-                <div class="ui medium image">
+            <div class="image content stackable">
+                <div class="ui medium image stackable">
                     <img src="https://semantic-ui.com/images/avatar2/large/rachel.png">
                 </div>
-                <div class="description">
-                    <div class="ui header">We've auto-chosen a profile image for you.</div>
+                <div class="description stackable">
+                    <div class="ui header stackable">We've auto-chosen a profile image for you.</div>
                     <p>We've grabbed the following image from the <a href="https://www.gravatar.com" target="_blank">gravatar</a> image associated with your registered e-mail address.</p>
                     <p>Is it okay to use this photo?</p>
                 </div>
             </div>
-            <div class="actions">
-                <div class="ui black deny button">
+            <div class="actions stackable">
+                <div class="ui black deny button stackable">
                     Nope
                 </div>
-                <div class="ui positive right labeled icon button">
+                <div class="ui positive right labeled icon button stackable">
                     Yep, that's me
                     <i class="checkmark icon"></i>
                 </div>
             </div>
         </div>       
         
+        <!-- Title and card with News -->
         <div class="ui container centered grid stackable" style="margin-top: 50px">
             <h2 class="ui header">
             <i class="newspaper icon"></i>
@@ -158,6 +161,7 @@
               </div>
         </div>
         
+        <!-- Container with depositions -->
         <div class="ui container centered grid stackable" style="margin-top: 50px">
             <h2 class="ui header">
             <i class="bullhorn icon"></i>
@@ -187,6 +191,7 @@
             </div>
         </div>
 
+        <!-- Footer -->
         <div class="ui inverted vertical footer segment" style="margin-top: 75px">
             <div class="ui center aligned container">
                 <div class="ui stackable inverted divided grid">
