@@ -192,7 +192,7 @@
         </div>
 
         <!-- Footer -->
-        <div class="ui inverted vertical footer segment" style="margin-top: 75px">
+        <div class="ui inverted vertical footer segment stackable" style="margin-top: 75px">
             <div class="ui center aligned container">
                 <div class="ui stackable inverted divided grid">
                     <div class="three wide column">
