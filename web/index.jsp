@@ -28,34 +28,7 @@
             <img class="ui image " src="https://images2.imgbox.com/05/9e/e0BRxl8y_o.jpg">            
         </div>
         
-        <%@include file="WEB-INF/jspf/navbarOptions.jspf" %>
-        
-        <!-- Modal Login -->
-        <div class="ui modal test stackable">
-            <i class="close icon stackable"></i>
-            <div class="header stackable">
-                Profile Picture
-            </div>
-            <div class="image content stackable">
-                <div class="ui medium image stackable">
-                    <img src="https://semantic-ui.com/images/avatar2/large/rachel.png">
-                </div>
-                <div class="description stackable">
-                    <div class="ui header stackable">We've auto-chosen a profile image for you.</div>
-                    <p>We've grabbed the following image from the <a href="https://www.gravatar.com" target="_blank">gravatar</a> image associated with your registered e-mail address.</p>
-                    <p>Is it okay to use this photo?</p>
-                </div>
-            </div>
-            <div class="actions stackable">
-                <div class="ui black deny button stackable">
-                    Nope
-                </div>
-                <div class="ui positive right labeled icon button stackable">
-                    Yep, that's me
-                    <i class="checkmark icon"></i>
-                </div>
-            </div>
-        </div>       
+        <%@include file="WEB-INF/jspf/navbarOptions.jspf" %>      
         
         <!-- Title and card with News -->
         <div class="ui container centered grid stackable" style="margin-top: 50px">
@@ -191,51 +164,6 @@
             </div>
         </div>
 
-        <!-- Footer -->
-        <div class="ui inverted vertical footer segment stackable" style="margin-top: 75px">
-            <div class="ui center aligned container">
-                <div class="ui stackable inverted divided grid">
-                    <div class="three wide column">
-                        <h4 class="ui inverted header">Group 1</h4>
-                        <div class="ui inverted link list">
-                            <a href="#" class="item">Link One</a>
-                            <a href="#" class="item">Link Two</a>
-                            <a href="#" class="item">Link Three</a>
-                            <a href="#" class="item">Link Four</a>
-                        </div>
-                    </div>
-                    <div class="three wide column">
-                        <h4 class="ui inverted header">Group 2</h4>
-                        <div class="ui inverted link list">
-                            <a href="#" class="item">Link One</a>
-                            <a href="#" class="item">Link Two</a>
-                            <a href="#" class="item">Link Three</a>
-                            <a href="#" class="item">Link Four</a>
-                        </div>
-                    </div>
-                    <div class="three wide column">
-                        <h4 class="ui inverted header">Group 3</h4>
-                        <div class="ui inverted link list">
-                            <a href="#" class="item">Link One</a>
-                            <a href="#" class="item">Link Two</a>
-                            <a href="#" class="item">Link Three</a>
-                            <a href="#" class="item">Link Four</a>
-                        </div>
-                    </div>
-                    <div class="seven wide column">
-                        <h4 class="ui inverted header">Footer Header</h4>
-                        <p>Extra space for a call to action inside the footer that could help re-engage users.</p>
-                    </div>
-                </div>
-            <div class="ui inverted section divider"></div>
-            <img src="https://github.com/LuizMiguelSR/templateBootStrap/blob/main/img/cpsGovPB.png?raw=true" class="ui centered medium image">
-            <div class="ui horizontal inverted small divided link list">
-                <a class="item" href="#">Site Map</a>
-                <a class="item" href="#">Contact Us</a>
-                <a class="item" href="#">Terms and Conditions</a>
-                <a class="item" href="#">Privacy Policy</a>
-            </div>
-            </div>
-        </div>
+        <%@include file="WEB-INF/jspf/footer.jspf" %>
     </body>
 </html>

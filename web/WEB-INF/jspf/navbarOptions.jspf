@@ -3,50 +3,50 @@
 <!-- Navbar Sticky -->
 <div class="ui inverted main menu top fixed stackable" style="box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);">
     <div class="ui text container" >
-        <a class="item" href="#">Home</a>
+        <a class="item" href="index.jsp">Home</a>
         <div class="ui dropdown item">
         Institucional
         <i class="dropdown icon"></i>
             <div class="menu">
-                <div class="header">Quem Somos</div>
-                <div class="item" href="">Sobre a Fatec</div>
-                <div class="item" href="">Regimento e Regulamento</div>
-                <div class="header">Departamentos</div>
-                <div class="item" href="">Direção</div>
-                <div class="item" href="">Coordenação de Cursos</div>
-                <div class="item" href="">Diretoria de Serviços Acadêmicos</div>
-                <div class="item" href="">Diretoria de Serviços Administrativos</div>
-                <div class="item" href="">Centro de Informática</div>
-                <div class="item" href="">Biblioteca</div>
-                <div class="item" href="">CIPA</div>
-                <div class="item" href="">Horários de Funcionamento</div>
+                <a class="header">Quem Somos</a>
+                <a class="item" href="sobre.jsp">Sobre a Fatec</a>
+                <a class="item" href="">Regimento e Regulamento</a>
+                <a class="header">Departamentos</a>
+                <a class="item" href="">Direção</a>
+                <a class="item" href="">Coordenação de Cursos</a>
+                <a class="item" href="">Diretoria de Serviços Acadêmicos</a>
+                <a class="item" href="">Diretoria de Serviços Administrativos</a>
+                <a class="item" href="">Centro de Informática</a>
+                <a class="item" href="">Biblioteca</a>
+                <a class="item" href="">CIPA</a>
+                <a class="item" href="">Horários de Funcionamento</a>
             </div>
         </div>
         <div class="ui dropdown item">
         Secretaria
         <i class="dropdown icon"></i>
             <div class="menu shadow">
-                <div class="item" href="">Informações Gerais</div>
-                <div class="item" href="">Documentos e Modelos</div>
-                <div class="item" href="">Perguntas Frequentes</div>
-                <div class="item" href="">Requerimentos</div>
+                <a class="item" href="">Informações Gerais</a>
+                <a class="item" href="">Documentos e Modelos</a>
+                <a class="item" href="">Perguntas Frequentes</a>
+                <a class="item" href="">Requerimentos</a>
             </div>
         </div>
         <div class="ui dropdown item">
         Calendário/Aulas
         <i class="dropdown icon"></i>
             <div class="menu">
-                <div class="item" href="">Horários Aulas</div>
-                <div class="item" href="">Calendário Acadêmico</div>
-                <div class="item" href="">Professores</div>
+                <a class="item" href="">Horários Aulas</a>
+                <a class="item" href="">Calendário Acadêmico</a>
+                <a class="item" href="">Professores</a>
             </div>
         </div>
         <div class="ui dropdown item">
         Sites
         <i class="dropdown icon"></i>
             <div class="menu">
-                <div class="item" href="http://www.fatecpg.com.br/tic/default.aspx" target="_blank">DTI</div>
-                <div class="item" href="https://edu.google.com/" target="_blank">Google for Education</div>
+                <a class="item" href="http://www.fatecpg.com.br/tic/default.aspx" target="_blank">DTI</a>
+                <a class="item" href="https://edu.google.com/" target="_blank">Google for Education</a>
             </div>
         </div>
     </div>
