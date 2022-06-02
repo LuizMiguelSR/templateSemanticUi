@@ -1,0 +1,10 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<!-- Overlay with Social Media -->
+ <div class="overlay stackable">
+    <div class="ui labeled icon vertical menu stackable">
+        <a class="item" href="https://twitter.com/fatecpg" target="_blank"><i class="twitter icon"></i> Tweet</a>
+        <a class="item" href="https://www.facebook.com/fatecpg" target="_blank"><i class="facebook icon"></i> Share</a>
+        <a class="item" href="https://www.linkedin.com/school/centro-paula-souza---fatec-praia-grande/" target="_blank"><i class="linkedin icon"></i> LinkedIn</a>
+    </div>
+</div>

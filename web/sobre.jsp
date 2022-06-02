@@ -16,7 +16,7 @@
         <%@include file="WEB-INF/jspf/css.jspf" %>
         
         <link rel="icon" href="https://fatecpg.edu.br/img/icone.png">
-        <title>Sobre a Fatec PG</title>
+        <title>Fatec Pg - Sobre</title>
     </head>
     <body>
         <%@include file="WEB-INF/jspf/scripts.jspf" %>
@@ -24,10 +24,10 @@
         <%@include file="WEB-INF/jspf/navbar.jspf" %>
         
         <div class="ui container stackable fluid" style="margin-top: 0em">           
-            <img class="ui image " src="https://images2.imgbox.com/05/9e/e0BRxl8y_o.jpg">            
+            <img class="ui image" src="https://images2.imgbox.com/05/9e/e0BRxl8y_o.jpg">            
         </div>
         
-        <%@include file="WEB-INF/jspf/navbarOptions.jspf" %>
+        <%@include file="WEB-INF/jspf/navbar2.jspf" %>
         
         <div class="ui text container" style="margin-top: 50px">
             <h3><strong>Sobre o Município de Praia Grande</strong></h3>
@@ -37,13 +37,7 @@
                 distribuídos entre os parques estaduais da Serra do Mar, do Xixová, do Piaçabuçu, a costa marítima 
                 e a orla marítima.
             </p>
-            <div class="overlay">
-                <div class="ui labeled icon vertical menu">
-                    <a class="item"><i class="twitter icon"></i> Tweet</a>
-                    <a class="item"><i class="facebook icon"></i> Share</a>
-                    <a class="item"><i class="mail icon"></i> E-mail</a>
-                </div>
-            </div>
+            <%@include file="WEB-INF/jspf/socialOverlay.jspf" %>
             <p>
                 Em função desta distribuição percebe-se que as principais atividades no município são o comércio e o turismo.
             </p>

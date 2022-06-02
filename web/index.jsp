@@ -17,7 +17,7 @@
         
         <link rel="icon" href="https://fatecpg.edu.br/img/icone.png">
         
-        <title>Template utilizando o Semantic Ui</title>
+        <title>Fatec Pg - Início</title>
     </head>
     <body>
         <%@include file="WEB-INF/jspf/scripts.jspf" %>
@@ -28,7 +28,7 @@
             <img class="ui image " src="https://images2.imgbox.com/05/9e/e0BRxl8y_o.jpg">            
         </div>
         
-        <%@include file="WEB-INF/jspf/navbarOptions.jspf" %>      
+        <%@include file="WEB-INF/jspf/navbar2.jspf" %>
         
         <!-- Title and card with News -->
         <div class="ui container centered grid stackable" style="margin-top: 50px">
