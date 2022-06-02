@@ -7,6 +7,13 @@
             <file>file:/media/luiz/Disco%20Local/Meus_Documentos/ArquivosAcademicos/Projetos/templateSemanticUi/web/index.jsp</file>
             <file>file:/media/luiz/Disco%20Local/Meus_Documentos/ArquivosAcademicos/Projetos/templateSemanticUi/web/WEB-INF/jspf/navbar.jspf</file>
         </group>
-        <group name="SiteFatec"/>
+        <group name="SiteFatec">
+            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/navbar.jspf</file>
+            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/css.jspf</file>
+            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/index.jsp</file>
+            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/sobre.jsp</file>
+            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/navbarOptions.jspf</file>
+            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/scripts.jspf</file>
+        </group>
     </open-files>
 </project-private>
