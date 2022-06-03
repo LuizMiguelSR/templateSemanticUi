@@ -17,7 +17,7 @@
         
         <link rel="icon" href="https://fatecpg.edu.br/img/icone.png">
         
-        <title>Fatec Pg - Início</title>
+        <title>Fatec PG - Início</title>
     </head>
     <body>
         <%@include file="WEB-INF/jspf/scripts.jspf" %>
@@ -29,141 +29,141 @@
         </div>
         
         <%@include file="WEB-INF/jspf/navbar2.jspf" %>
-        
-        <!-- Title and card with News -->
-        <div class="ui container centered grid stackable" style="margin-top: 50px">
-            <h2 class="ui header">
-            <i class="newspaper icon"></i>
-                <div class="content">
-                Notícias e Eventos
-                </div>
-            </h2>
-           <div class="ui link cards centered" style="margin-top: 35px">
-                <div class="card">
-                    <div class="image">
-                        <img src="https://fatecpg.edu.br/img/upload/slider-2022.03.08-14.22.22jpeg">
-                    </div>
+        <div class="ui container stackable">
+            <!-- Title and card with News -->
+            <div class="ui container grid centered stackable ">
+                <h2 class="ui header">
+                <i class="newspaper icon"></i>
                     <div class="content">
-                        <div class="header">Matt Giampietro</div>
+                    Notícias e Eventos
+                    </div>
+                </h2>
+               <div class="ui link cards centered" style="margin-top: 1.5em;">
+                    <div class="card">
+                        <div class="image">
+                            <img src="https://fatecpg.edu.br/img/upload/slider-2022.03.08-14.22.22jpeg">
+                        </div>
+                        <div class="content">
+                            <div class="header">Matt Giampietro</div>
+                            <div class="meta">
+                                <a>Friends</a>
+                            </div>
+                            <div class="description">
+                                Matthew is an interior designer living in New York.
+                            </div>
+                        </div>
+                      <div class="extra content">
+                            <span class="right floated">
+                                Joined in 2013
+                            </span>
+                            <span>
+                                <i class="user icon"></i>
+                                75 Friends
+                            </span>
+                      </div>
+                    </div>
+                    <div class="card">
+                        <div class="image">
+                            <img src="https://fatecpg.edu.br/img/upload/slider-2022.04.07-08.58.28jpeg">
+                        </div>
+                        <div class="content">
+                            <div class="header">Molly</div>
+                            <div class="meta">
+                                <span class="date">Coworker</span>
+                            </div>
+                            <div class="description">
+                                Molly is a personal assistant living in Paris.
+                            </div>
+                        </div>
+                        <div class="extra content">
+                            <span class="right floated">
+                                Joined in 2011
+                            </span>
+                            <span>
+                                <i class="user icon"></i>
+                                35 Friends
+                            </span>
+                        </div>
+                    </div>
+                    <div class="card">
+                      <div class="image">
+                        <img src="https://fatecpg.edu.br/img/upload/slider-2022.04.07-08.59.56.png">
+                      </div>
+                      <div class="content">
+                        <div class="header">Elyse</div>
                         <div class="meta">
-                            <a>Friends</a>
+                          <a>Coworker</a>
                         </div>
                         <div class="description">
-                            Matthew is an interior designer living in New York.
+                          Elyse is a copywriter working in New York.
                         </div>
-                    </div>
-                  <div class="extra content">
+                      </div>
+                      <div class="extra content">
                         <span class="right floated">
-                            Joined in 2013
+                          Joined in 2014
                         </span>
                         <span>
-                            <i class="user icon"></i>
-                            75 Friends
+                          <i class="user icon"></i>
+                          151 Friends
                         </span>
-                  </div>
-                </div>
-                <div class="card">
-                    <div class="image">
-                        <img src="https://fatecpg.edu.br/img/upload/slider-2022.04.07-08.58.28jpeg">
+                      </div>
                     </div>
-                    <div class="content">
-                        <div class="header">Molly</div>
+                    <div class="card">
+                      <div class="image">
+                        <img src="https://fatecpg.edu.br/img/upload/slider-2022.05.23-10.14.08jpeg">
+                      </div>
+                      <div class="content">
+                        <div class="header">Elyse</div>
                         <div class="meta">
-                            <span class="date">Coworker</span>
+                          <a>Coworker</a>
                         </div>
                         <div class="description">
-                            Molly is a personal assistant living in Paris.
+                          Elyse is a copywriter working in New York.
                         </div>
-                    </div>
-                    <div class="extra content">
+                      </div>
+                      <div class="extra content">
                         <span class="right floated">
-                            Joined in 2011
+                          Joined in 2014
                         </span>
                         <span>
-                            <i class="user icon"></i>
-                            35 Friends
+                          <i class="user icon"></i>
+                          151 Friends
                         </span>
-                    </div>
-                </div>
-                <div class="card">
-                  <div class="image">
-                    <img src="https://fatecpg.edu.br/img/upload/slider-2022.04.07-08.59.56.png">
-                  </div>
-                  <div class="content">
-                    <div class="header">Elyse</div>
-                    <div class="meta">
-                      <a>Coworker</a>
-                    </div>
-                    <div class="description">
-                      Elyse is a copywriter working in New York.
+                      </div>
                     </div>
                   </div>
-                  <div class="extra content">
-                    <span class="right floated">
-                      Joined in 2014
-                    </span>
-                    <span>
-                      <i class="user icon"></i>
-                      151 Friends
-                    </span>
-                  </div>
-                </div>
-                <div class="card">
-                  <div class="image">
-                    <img src="https://fatecpg.edu.br/img/upload/slider-2022.05.23-10.14.08jpeg">
-                  </div>
-                  <div class="content">
-                    <div class="header">Elyse</div>
-                    <div class="meta">
-                      <a>Coworker</a>
-                    </div>
-                    <div class="description">
-                      Elyse is a copywriter working in New York.
-                    </div>
-                  </div>
-                  <div class="extra content">
-                    <span class="right floated">
-                      Joined in 2014
-                    </span>
-                    <span>
-                      <i class="user icon"></i>
-                      151 Friends
-                    </span>
-                  </div>
-                </div>
-              </div>
-        </div>
-        
-        <!-- Container with depositions -->
-        <div class="ui container centered grid stackable" style="margin-top: 50px">
-            <h2 class="ui header">
-            <i class="bullhorn icon"></i>
-                <div class="content">
-                Fala Fatecano!
-                </div>
-            </h2>
-        </div>           
-        <div class="ui three column stackable grid container quote" style="margin-top: 35px;">
-            <div class="column">
-                <div class="ui tall stacked segment">
-                    <p>"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."</p>
-                    <img src="https://semantic-ui.com/examples/assets/images/avatar/nan.jpg" class="ui avatar image"> <b>Nan</b> Chief Fun Officer Acme Toys
-                </div>
             </div>
-            <div class="column">
-                <div class="ui tall stacked segment">
-                    <p>"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."</p>
-                    <img src="https://semantic-ui.com/examples/assets/images/avatar/nan.jpg" class="ui avatar image"> <b>Nan</b> Chief Fun Officer Acme Toys
-                </div>
-            </div>
-            <div class="column">
-                <div class="ui tall stacked segment">
-                    <p>"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."</p>
-                    <img src="https://semantic-ui.com/examples/assets/images/avatar/nan.jpg" class="ui avatar image"> <b>Nan</b> Chief Fun Officer Acme Toys
-                </div>
-            </div>
-        </div>
 
+            <!-- Container with depositions -->
+            <div class="ui container grid centered stackable">
+                <h2 class="ui header">
+                <i class="bullhorn icon"></i>
+                    <div class="content">
+                    Fala Fatecano!
+                    </div>
+                </h2>
+            </div>           
+            <div class="ui three column stackable container grid quote" style="margin-top: 1.5em;">
+                <div class="column">
+                    <div class="ui tall stacked segment">
+                        <p>"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."</p>
+                        <img src="https://semantic-ui.com/examples/assets/images/avatar/nan.jpg" class="ui avatar image"> <b>Nan</b> Chief Fun Officer Acme Toys
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="ui tall stacked segment">
+                        <p>"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."</p>
+                        <img src="https://semantic-ui.com/examples/assets/images/avatar/nan.jpg" class="ui avatar image"> <b>Nan</b> Chief Fun Officer Acme Toys
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="ui tall stacked segment">
+                        <p>"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."</p>
+                        <img src="https://semantic-ui.com/examples/assets/images/avatar/nan.jpg" class="ui avatar image"> <b>Nan</b> Chief Fun Officer Acme Toys
+                    </div>
+                </div>
+            </div>
+        </div>
         <%@include file="WEB-INF/jspf/footer.jspf" %>
     </body>
 </html>

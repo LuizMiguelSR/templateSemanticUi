@@ -16,7 +16,7 @@
         <%@include file="WEB-INF/jspf/css.jspf" %>
         
         <link rel="icon" href="https://fatecpg.edu.br/img/icone.png">
-        <title>Fatec Pg - Sobre</title>
+        <title>Fatec PG - Sobre</title>
     </head>
     <body>
         <%@include file="WEB-INF/jspf/scripts.jspf" %>
@@ -29,7 +29,7 @@
         
         <%@include file="WEB-INF/jspf/navbar2.jspf" %>
         
-        <div class="ui text container" style="margin-top: 50px">
+        <div class="ui container stackable"> 
             <h3><strong>Sobre o Município de Praia Grande</strong></h3>
             <p>
                 O município de Praia Grande possui uma população fixa de 305.000 habitantes. 
@@ -128,7 +128,7 @@
             <h3><strong>Localização</strong></h3>
             <div class="dropdown-divider"></div>
             <p>
-                <strong>Endereço:	</strong>
+                <strong>Endereço:</strong>
                 Praça 19 de janeiro, 144 - Praia Grande - São Paulo - Cep: 11700-100
             </p>
             <br>

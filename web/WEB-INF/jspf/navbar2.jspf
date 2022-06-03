@@ -10,12 +10,8 @@
             <div class="menu">
                 <a class="header">Quem Somos</a>
                 <a class="item" href="sobre.jsp">Sobre a Fatec</a>
-                <a class="item" href="">Regimento e Regulamento</a>
-                <a class="header">Departamentos</a>
-                <a class="item" href="">Direção</a>
-                <a class="item" href="">Coordenação de Cursos</a>
-                <a class="item" href="">Diretoria de Serviços Acadêmicos</a>
-                <a class="item" href="">Diretoria de Serviços Administrativos</a>
+                <a class="item" href="regimento.jsp">Regimento e Regulamento</a>
+                <a class="item" href="departamentos.jsp">Departamentos</a>
                 <a class="item" href="">Centro de Informática</a>
                 <a class="item" href="">Biblioteca</a>
                 <a class="item" href="">CIPA</a>
