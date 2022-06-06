@@ -35,6 +35,10 @@
 
         /* this should change both tab content and tab item */
         $.tab('change tab', 'second');
+        
+        $('.special.cards .image').dimmer({
+            on: 'hover'
+        });
     });
 </script>
 

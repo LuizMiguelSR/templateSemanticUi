@@ -29,7 +29,7 @@
         
         <%@include file="WEB-INF/jspf/navbar2.jspf" %>
         
-        <div class="ui container stackable">
+        <div class="ui container main stackable">
             <h1>Regimento e Regulamento</h1>
             <%@include file="WEB-INF/jspf/socialOverlay.jspf" %>
             <p>As Fatecs possuem um Regimento Geral e um Regulamento de Graduação que determinam os direitos e deveres de sua comunidade.</p>

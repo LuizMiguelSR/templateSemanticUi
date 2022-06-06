@@ -29,7 +29,7 @@
         
         <%@include file="WEB-INF/jspf/navbar2.jspf" %>
         
-        <div class="ui container stackable"> 
+        <div class="ui container main stackable"> 
             <h3><strong>Sobre o Município de Praia Grande</strong></h3>
             <p>
                 O município de Praia Grande possui uma população fixa de 305.000 habitantes. 

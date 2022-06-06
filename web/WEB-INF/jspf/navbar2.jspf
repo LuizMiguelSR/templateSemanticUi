@@ -8,7 +8,7 @@
         Institucional
         <i class="dropdown icon"></i>
             <div class="menu">
-                <a class="header">Quem Somos</a>
+                <div class="header">Quem Somos</div>
                 <a class="item" href="sobre.jsp">Sobre a Fatec</a>
                 <a class="item" href="regimento.jsp">Regimento e Regulamento</a>
                 <a class="item" href="departamentos.jsp">Departamentos</a>
