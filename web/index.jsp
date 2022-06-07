@@ -22,13 +22,59 @@
     <body>
         <%@include file="WEB-INF/jspf/scripts.jspf" %>
         
-        <%@include file="WEB-INF/jspf/navbar.jspf" %>
-        
-        <div class="ui container stackable fluid" style="margin-top: 0em">           
+        <%@include file="WEB-INF/jspf/navbar3.jspf" %>
+        <div class="ui pushable segment">
+            <div class="ui sidebar vertical menu">
+                <a class="item" href="index.jsp">Home</a>
+                <div class="ui simple dropdown item">
+                Institucional
+                <i class="dropdown icon"></i>
+                    <div class="menu">
+                        <div class="header">Quem Somos</div>
+                        <a class="item" href="sobre.jsp">Sobre a Fatec</a>
+                        <a class="item" href="regimento.jsp">Regimento e Regulamento</a>
+                        <a class="item" href="departamentos.jsp">Departamentos</a>
+                        <a class="item" href="">Centro de Informática</a>
+                        <a class="item" href="">Biblioteca</a>
+                        <a class="item" href="">CIPA</a>
+                        <a class="item" href="">Horários de Funcionamento</a>
+                    </div>
+                </div>
+                <div class="ui simple dropdown item">
+                Secretaria
+                <i class="dropdown icon"></i>
+                    <div class="menu shadow">
+                        <a class="item" href="">Informações Gerais</a>
+                        <a class="item" href="">Documentos e Modelos</a>
+                        <a class="item" href="">Perguntas Frequentes</a>
+                        <a class="item" href="">Requerimentos</a>
+                    </div>
+                </div>
+                <div class="ui simple dropdown item">
+                Calendário/Aulas
+                <i class="dropdown icon"></i>
+                    <div class="menu">
+                        <a class="item" href="">Horários Aulas</a>
+                        <a class="item" href="">Calendário Acadêmico</a>
+                        <a class="item" href="">Professores</a>
+                    </div>
+                </div>
+                <div class="ui dropdown item">
+                Sites
+                <i class="dropdown icon"></i>
+                    <div class="menu">
+                        <a class="item" href="http://www.fatecpg.com.br/tic/default.aspx" target="_blank">DTI</a>
+                        <a class="item" href="https://edu.google.com/" target="_blank">Google for Education</a>
+                    </div>
+                </div>
+            </div>
+            <div class="pusher">
+                <div id="content" class="ui segment">
+                    <div class="ui container stackable fluid" style="margin-top: 0em">           
             <img class="ui image " src="https://images2.imgbox.com/05/9e/e0BRxl8y_o.jpg">            
         </div>
         
-        <%@include file="WEB-INF/jspf/navbar2.jspf" %>
+        
         <div class="ui container main stackable">          
 
             <!-- Title and card with News -->
@@ -267,5 +313,9 @@
             </div>
         </div>
         <%@include file="WEB-INF/jspf/footer.jspf" %>
+                </div>
+            </div>
+        </div>
+        
     </body>
 </html>
