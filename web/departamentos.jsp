@@ -35,7 +35,7 @@
                 <a class="item" data-tab="tab2">Coordenação de cursos</a>
                 <a class="item" data-tab="tab3">Centro de Informática</a>
                 <a class="item" data-tab="tab4">Biblioteca</a>
-                <a class="item" data-tab="tab5">Third</a>
+                <a class="item" data-tab="tab5">CIPA</a>
                 <a class="item" data-tab="tab6">Third</a>
                 <a class="item" data-tab="tab7">Third</a>
             </div>
@@ -127,6 +127,46 @@
                     <li>Os empréstimos são de total responsabilidade do usuário registrado, pois somente são autorizados mediante a digitação de senha pessoal intransferível;</li>
                     <li>A senha do usuário é pessoal e intransferível, não devendo ser emprestada para outras pessoas em nenhuma hipótese.</li>
                 </ul>
+            </div>
+            <div class="ui bottom attached tab segment" data-tab="tab5">
+                <img src="https://fatecpg.edu.br/img/logocipa.jpeg" alt="CIPA" class="ui centered small image" style="max-height: 300px;" />
+                <h3>Comissão Interna de Prevenção de Acidentes – CIPA</h3>
+                <p>A Comissão Interna de Prevenção de Acidentes – CIPA, formada pelos trabalhadores da empresa, 
+                  tem como objetivo a prevenção de acidentes e doenças decorrentes do trabalho, 
+                  de modo a tornar compatível permanentemente o trabalho com a preservação da vida e a promoção da saúde do trabalhador. 
+                </p>
+                <p>
+                  Toda empresa que possua funcionários regidos pela Consolidação das Leis do Trabalho – CLT, deve constituir CIPA, por estabelecimento, e mantê-la em regular funcionamento. 
+                </p>
+                <p>
+                  Instituída pela Norma Regulamentadora n.º 5 (NR-5) da Secretraria de Inspeção do Trabalho, 
+                  as CIPAs são comissões compostas por representantes dos empregados e dos empregadores de cada organização e são responsáveis, 
+                  dentre outras atribuições, por prevenir os acidentes do trabalho e promover a SIPAT para abordar assuntos de saúde e segurança do trabalho para toda a empresa. 
+                </p>
+                <p>
+                  No Centro Paula Souza, cada Unidade de Ensino possui sua respectiva CIPA, com membros eleitos e designados dentre os servidores administrativos e docentes. 
+                </p>
+
+                <h3><b>GESTÃO CIPA 2020/2021 FATEC Praia Grande </b></h3>
+                <h4><b>Presidente</b> </h4>
+                <h5>Prof. Esp. Anselmo Laurini Sant’Anna </h5>
+                <h4><b>Vice-Presidente</b> </h4>
+                <h5>Prof. Me. Ulysses C. C. Diegues </h5>
+                <h4><b>Secretário</b></h4>
+                <h5>Ricardo Santos de Oliveira </h5>
+                <h4><b>Membro</b> </h4>
+                <h5>Prof. Me. Antonio Jorge Ferreira Pires </h5>
+                <a class="ui secondary button" id="pdf4">Edital - Boletim Informativo: Fev/2021</a> &nbsp;
+                <a class="ui secondary button" id="pdf5">Edital - Boletim Informativo: Março/2021</a>
+                <br>
+                <div class="ui small modal pdf4 stackable">
+                    <i class="close icon stackable"></i>
+                    <object class="pdf" data="pdf/documento4.pdf" type="application/pdf" width="100%" height="1080px">Seu navegador não suporta PDFs, para ter acesso a este PDF faça o <a style="margin: 40px" href="pdf/documento4.pdf" download="Edital - Boletim Informativo: Fev/2021">download aqui</a>.</object>
+                </div><br>
+                <div class="ui small modal pdf5 stackable">
+                    <i class="close icon stackable"></i>
+                    <object class="pdf" data="pdf/documento5.pdf" type="application/pdf" width="100%" height="1080px">Seu navegador não suporta PDFs, para ter acesso a este PDF faça o <a style="margin: 40px" href="pdf/documento5.pdf" download="Edital - Boletim Informativo: Março/2021">download aqui</a>.</object>
+                </div><br>
             </div>
         </div>
         

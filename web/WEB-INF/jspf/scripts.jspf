@@ -79,4 +79,20 @@
             closable: true
 	});
     });
+    $(function(){
+	$("#pdf4").click(function(){
+            $(".pdf4").modal('show');
+	});
+	$(".pdf4").modal({
+            closable: true
+	});
+    });
+    $(function(){
+	$("#pdf5").click(function(){
+            $(".pdf5").modal('show');
+	});
+	$(".pdf5").modal({
+            closable: true
+	});
+    });
 </script>
