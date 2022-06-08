@@ -23,11 +23,7 @@
         
         <%@include file="WEB-INF/jspf/navbar.jspf" %>
         
-        <div class="ui container stackable fluid" style="margin-top: 0em">           
-            <img class="ui image" src="https://images2.imgbox.com/05/9e/e0BRxl8y_o.jpg">            
-        </div>
-        
-        <%@include file="WEB-INF/jspf/navbar2.jspf" %>
+        <%@include file="WEB-INF/jspf/header.jspf" %>
         
         <div class="ui container main stackable"> 
             <h3><strong>Sobre o Município de Praia Grande</strong></h3>

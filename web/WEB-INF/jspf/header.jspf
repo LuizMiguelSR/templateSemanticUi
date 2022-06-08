@@ -1,0 +1,7 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<!-- Header Content -->
+<div class="ui container stackable fluid" style="margin-top: 0em">           
+    <img class="ui image" src="https://images2.imgbox.com/05/9e/e0BRxl8y_o.jpg">
+    <div class="ui box header" style="background-color: #931914; margin-top: 0em; border-radius: 0em; height: 0.25em;"></div>
+</div>

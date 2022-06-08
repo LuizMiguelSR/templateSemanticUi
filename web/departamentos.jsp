@@ -16,18 +16,14 @@
         <%@include file="WEB-INF/jspf/css.jspf" %>
         
         <link rel="icon" href="https://fatecpg.edu.br/img/icone.png">
-        <title>Fatec Pg - Sobre</title>
+        <title>Fatec Pg - Departamentos</title>
     </head>
     <body>
         <%@include file="WEB-INF/jspf/scripts.jspf" %>
         
         <%@include file="WEB-INF/jspf/navbar.jspf" %>
         
-        <div class="ui container stackable fluid" style="margin-top: 0em">           
-            <img class="ui image" src="https://images2.imgbox.com/05/9e/e0BRxl8y_o.jpg">            
-        </div>
-        
-        <%@include file="WEB-INF/jspf/navbar2.jspf" %>
+        <%@include file="WEB-INF/jspf/header.jspf" %>
         
         <div class="ui container main stackable">
             <div class="ui secondary pointing menu stackable">
@@ -36,7 +32,7 @@
                 <a class="item" data-tab="tab3">Centro de Informática</a>
                 <a class="item" data-tab="tab4">Biblioteca</a>
                 <a class="item" data-tab="tab5">CIPA</a>
-                <a class="item" data-tab="tab6">Third</a>
+                <a class="item" data-tab="tab6">Horário de Funcionamento</a>
                 <a class="item" data-tab="tab7">Third</a>
             </div>
             <div class="ui bottom attached tab segment active" data-tab="tab1">
@@ -156,6 +152,19 @@
                 <h5>Ricardo Santos de Oliveira </h5>
                 <h4><b>Membro</b> </h4>
                 <h5>Prof. Me. Antonio Jorge Ferreira Pires </h5>
+                <a class="ui secondary button" id="pdf4">Edital - Boletim Informativo: Fev/2021</a> &nbsp;
+                <a class="ui secondary button" id="pdf5">Edital - Boletim Informativo: Março/2021</a>
+                <br>
+                <div class="ui small modal pdf4 stackable">
+                    <i class="close icon stackable"></i>
+                    <object class="pdf" data="pdf/documento4.pdf" type="application/pdf" width="100%" height="1080px">Seu navegador não suporta PDFs, para ter acesso a este PDF faça o <a style="margin: 40px" href="pdf/documento4.pdf" download="Edital - Boletim Informativo: Fev/2021">download aqui</a>.</object>
+                </div><br>
+                <div class="ui small modal pdf5 stackable">
+                    <i class="close icon stackable"></i>
+                    <object class="pdf" data="pdf/documento5.pdf" type="application/pdf" width="100%" height="1080px">Seu navegador não suporta PDFs, para ter acesso a este PDF faça o <a style="margin: 40px" href="pdf/documento5.pdf" download="Edital - Boletim Informativo: Março/2021">download aqui</a>.</object>
+                </div><br>
+            </div>
+            <div class="ui bottom attached tab segment" data-tab="tab6">
                 <a class="ui secondary button" id="pdf4">Edital - Boletim Informativo: Fev/2021</a> &nbsp;
                 <a class="ui secondary button" id="pdf5">Edital - Boletim Informativo: Março/2021</a>
                 <br>

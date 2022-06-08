@@ -1,7 +1,8 @@
 <%-- any content can be specified here e.g.: --%>
 <%@ page pageEncoding="UTF-8" %>
- <!-- Footer -->
-<div class="ui inverted vertical footer segment stackable" style="margin-top: 75px">
+<!-- Footer -->
+<div class="ui box header" style="background-color: #931914; margin-bottom: 0em; border-radius: 0em; height: 0.25em;"></div>
+<div class="ui inverted vertical footer segment stackable" style="margin-top: 0em">
     <div class="ui center aligned container">
         <div class="ui stackable inverted divided grid">
             <div class="three wide column">

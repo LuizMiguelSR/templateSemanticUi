@@ -7,13 +7,7 @@
 
 <script>
   $(document)
-    .ready(function() {
-
-        // fix main menu to page on passing
-        $('.main.menu').visibility({
-            type: 'fixed'
-        });
-        
+    .ready(function() {        
         $('.overlay').visibility({
             type: 'fixed',
             offset: 80
@@ -25,11 +19,6 @@
             transition: 'vertical flip in',
             duration: 500
         });
-
-        // show dropdown on hover
-        $('.main.menu  .ui.dropdown').dropdown({
-            on: 'hover'
-        });
         
         $('.menu .item').tab();
 
@@ -39,10 +28,6 @@
         $('.special.cards .image').dimmer({
             on: 'hover'
         });
-        $('.ui.sidebar').sidebar({
-            context: $('.ui.pushable.segment'),
-            transition: 'overlay'
-        }).sidebar('attach events', '#mobile_item');
     });
 </script>
 
