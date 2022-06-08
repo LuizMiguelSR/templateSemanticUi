@@ -10,13 +10,12 @@
         <group name="SiteFatec">
             <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/navbar.jspf</file>
             <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/departamentos.jsp</file>
-            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/socialOverlay.jspf</file>
             <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/css.jspf</file>
             <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/index.jsp</file>
-            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/sobre.jsp</file>
             <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/footer.jspf</file>
+            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/sobre.jsp</file>
             <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/regimento.jsp</file>
-            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/navbar2.jspf</file>
+            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/header.jspf</file>
             <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/scripts.jspf</file>
         </group>
     </open-files>

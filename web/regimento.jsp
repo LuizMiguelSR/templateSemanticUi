@@ -30,9 +30,9 @@
             <%@include file="WEB-INF/jspf/socialOverlay.jspf" %>
             <p>As Fatecs possuem um Regimento Geral e um Regulamento de Graduação que determinam os direitos e deveres de sua comunidade.</p>
             <p>Abaixo está disponível uma versão resumida com as principais informações contidas em ambos, ideal para alunos tomarem ciência de seus principais direitos e deveres. Ainda assim, é possível acessar cada um dos documentos na íntegra.</p>
-            <a class="ui secondary button" id="pdf1">Resumo do Regimento e do Regulamento</a> &nbsp;
-            <a class="ui secondary button" id="pdf2">Regimento Geral</a> &nbsp;
-            <a class="ui secondary button" id="pdf3">Regulamento de Graduação</a>
+            <a class="ui secondary button" style="margin-top: 1.5em;" id="pdf1">Resumo do Regimento e do Regulamento</a> &nbsp;
+            <a class="ui secondary button" style="margin-top: 1.5em;" id="pdf2">Regimento Geral</a> &nbsp;
+            <a class="ui secondary button" style="margin-top: 1.5em;" id="pdf3">Regulamento de Graduação</a>
             <br>
             <div class="ui small modal pdf1 stackable">
                 <i class="close icon stackable"></i>
