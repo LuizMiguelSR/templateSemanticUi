@@ -23,6 +23,8 @@
         
         <%@include file="WEB-INF/jspf/navbar.jspf" %>
         
+        <%@include file="WEB-INF/jspf/navbarVertical.jspf" %>
+        
         <%@include file="WEB-INF/jspf/header.jspf" %>
         
         <div class="ui container main stackable">
@@ -165,17 +167,148 @@
                 </div><br>
             </div>
             <div class="ui bottom attached tab segment" data-tab="tab6">
-                <a class="ui secondary button" id="pdf4">Edital - Boletim Informativo: Fev/2021</a> &nbsp;
-                <a class="ui secondary button" id="pdf5">Edital - Boletim Informativo: Março/2021</a>
-                <br>
-                <div class="ui small modal pdf4 stackable">
-                    <i class="close icon stackable"></i>
-                    <object class="pdf" data="pdf/documento4.pdf" type="application/pdf" width="100%" height="1080px">Seu navegador não suporta PDFs, para ter acesso a este PDF faça o <a style="margin: 40px" href="pdf/documento4.pdf" download="Edital - Boletim Informativo: Fev/2021">download aqui</a>.</object>
-                </div><br>
-                <div class="ui small modal pdf5 stackable">
-                    <i class="close icon stackable"></i>
-                    <object class="pdf" data="pdf/documento5.pdf" type="application/pdf" width="100%" height="1080px">Seu navegador não suporta PDFs, para ter acesso a este PDF faça o <a style="margin: 40px" href="pdf/documento5.pdf" download="Edital - Boletim Informativo: Março/2021">download aqui</a>.</object>
-                </div><br>
+                <div class="ui text menu stackable">
+                    <a class="item active" data-tab="table1">Biblioteca</a>
+                    <a class="item" data-tab="table2">Diretoria Acadêmica</a>
+                    <a class="item" data-tab="table3">Coordenadoria de Estágio</a>
+                    <a class="item" data-tab="table4">Centro de informática</a>
+                </div>
+                <div class="ui tab active" data-tab="table1">
+                    <h3 style="text-align: center;">Horário de Atendimento - Biblioteca</h3>
+                    <table class="ui red table stackable">
+                        <thead>
+                            <tr class="center aligned">
+                                <th>Período</th>
+                                <th>Segunda à Sexta</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="center aligned">
+                                <td>Manhã</td>
+                                <td>das 8:00 às 11:30 hrs</td>
+                            </tr>
+                            <tr class="center aligned">
+                                <td>Tarde</td>
+                                <td>das 13:00 às 18:00 hrs</td>
+                            </tr>
+                            <tr class="center aligned">
+                                <td>Noite</td>
+                                <td>das 18:00 às 22:30 hrs</td>
+                            </tr>
+                        </tbody>
+                    </table> 
+                </div>
+                <div class="ui tab" data-tab="table2">
+                    <h3 style="text-align: center;">Horário de Atendimento - Diretoria Acadêmica</h3>
+                    <table class="ui red table stackable">
+                        <thead>
+                            <tr class="center aligned">
+                                <th>Período</th>
+                                <th>Segunda à Sexta</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="center aligned">
+                                <td>Manhã</td>
+                                <td>das 9:00 às 12:00 hrs</td>
+                            </tr>
+                            <tr class="center aligned">
+                                <td>Tarde</td>
+                                <td>das 14:00 às 15:30 hrs</td>
+                            </tr>
+                            <tr class="center aligned">
+                                <td>Noite</td>
+                                <td>das 18:00 às 21:00 hrs</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>            
+                <div class="ui tab" data-tab="table3">
+                    <h3 style="text-align: center;">Horário de Atendimento - Coordenadoria de Estágio</h3>
+                    <table class="ui red table stackable">
+                        <thead>
+                            <tr class="center aligned">
+                                <th>Dias</th>
+                                <th>Coordernador(a) Claudia</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="center aligned">
+                                <td>Quarta-feira</td>
+                                <td>das 15:00 às 20:00 hrs</td>
+                            </tr>
+                            <tr class="center aligned">
+                                <td>Sexta-feira</td>
+                                <td>das 14:00 às 16:00 hrs</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table class="ui red table stackable">
+                        <thead>
+                            <tr class="center aligned">
+                                <th>Dias</th>
+                                <th>Coordernador(a) Fernanda Schmitz</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="center aligned">
+                                <td>Terça-feira</td>
+                                <td>das 13:00 às 20:00 hrs</td>
+                            </tr>
+                            <tr class="center aligned">
+                                <td>Quinta-feira</td>
+                                <td>das 17:00 às 22:00 hrs</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table class="ui red table stackable">
+                        <thead>
+                            <tr class="center aligned">
+                                <th>Dias</th>
+                                <th>Coordernador(a) Marcelo</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="center aligned">
+                                <td>Segunda-feira</td>
+                                <td>das 08:00 às 13:00 hrs</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table class="ui red table stackable">
+                        <thead>
+                            <tr class="center aligned">
+                                <th>Dias</th>
+                                <th>Coordernador(a) Rubens</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="center aligned">
+                                <td>Terça-feira</td>
+                                <td>das 14:00 às 22:00 hrs</td>
+                            </tr>
+                            <tr class="center aligned">
+                                <td>Quarta-feira</td>
+                                <td>das 14:00 às 18:00 hrs</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>            
+                <div class="ui tab" data-tab="table4">
+                    <h3 style="text-align: center;">Horário de Atendimento - Centro de Informática</h3>
+                    <table class="ui red table stackable">
+                        <thead>
+                            <tr class="center aligned">
+                                <th>Segunda à Sexta</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="center aligned">
+                                <td>das 7:00 às 22:30 hrs</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>            
             </div>
         </div>
         

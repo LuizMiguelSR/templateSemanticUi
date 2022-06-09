@@ -23,21 +23,23 @@
         <%@include file="WEB-INF/jspf/scripts.jspf" %>
         
         <%@include file="WEB-INF/jspf/navbar.jspf" %>
-        
+            
+        <%@include file="WEB-INF/jspf/navbarVertical.jspf" %>
+
         <%@include file="WEB-INF/jspf/header.jspf" %>
-        
+
         <div class="ui container main stackable">          
 
             <!-- Title and card with Courses -->
             <div class="ui container main grid centered stackable">
-                
+
                 <h2 class="ui header">
                 <i class="graduation cap icon"></i>
                     <div class="content">
                         Cursos
                     </div>
                 </h2>
-                
+
                 <div class="ui four link cards centered stackable" style="margin-top: 1.5em;">
                     <div class="card">
                         <div class="image">
@@ -125,15 +127,15 @@
                         </div>
                     </div>                    
                 </div>
-                
+
                 <div class="ui main container">
                     <div class="ui divider stackable"></div>
                 </div>
-                
-                
+
+
                 <!-- Title and card with News and Events -->
                 <div class="ui container main grid centered stackable">
-                    
+
                     <h2 class="ui header">
                         <i class="newspaper icon"></i>
                         <div class="content">
@@ -141,7 +143,7 @@
                         </div>
                     </h2>
                 </div>
-                
+
                 <div class="ui four special cards centered stackable" style="margin-top: 3em">
                     <div class="card">
                     <div class="blurring dimmable image">
@@ -241,11 +243,11 @@
                     </div>
                 </div>              
             </div>
-            
+
             <div class="ui main container">
                     <div class="ui divider stackable"></div>
             </div>
-            
+
             <!-- Container with depositions -->
             <div class="ui container main grid centered stackable">
                 <h2 class="ui header">
@@ -276,7 +278,6 @@
                 </div>
             </div>
         </div>
-        
-        <%@include file="WEB-INF/jspf/footer.jspf" %>        
+        <%@include file="WEB-INF/jspf/footer.jspf" %>
     </body>
 </html>

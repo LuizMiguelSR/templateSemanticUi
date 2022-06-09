@@ -23,6 +23,8 @@
         
         <%@include file="WEB-INF/jspf/navbar.jspf" %>
         
+        <%@include file="WEB-INF/jspf/navbarVertical.jspf" %>
+        
         <%@include file="WEB-INF/jspf/header.jspf" %>
         
         <div class="ui container main stackable"> 

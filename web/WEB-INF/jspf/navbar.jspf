@@ -1,56 +1,69 @@
 <%-- any content can be specified here e.g.: --%>
 <%@ page pageEncoding="UTF-8" %>
 <!-- Navbar Top Fixed -->
-<div class="ui inverted menu top fixed stackable">
-    <div class="ui container stackable">
-        <img class="ui stackable" src="https://github.com/LuizMiguelSR/templateBootStrap/blob/main/img/fatecPgWhite.png?raw=true" style="width: 95px; margin-top: 10px; margin-right: 10px">            
-        <a class="item" href="index.jsp">Home</a>
-        <div class="ui simple dropdown item">
-        Institucional
-        <i class="dropdown icon"></i>
-            <div class="menu">
-                <div class="header">Quem Somos</div>
-                <a class="item" href="sobre.jsp">Sobre a Fatec</a>
-                <a class="item" href="regimento.jsp">Regimento e Regulamento</a>
-                <a class="item" href="departamentos.jsp">Departamentos</a>
+<div class="ui grid">
+    <div class="computer only row">
+        <div class="column">
+            <div class="ui inverted menu top fixed stackable">
+                <div class="ui container stackable">
+                    <img class="ui stackable" src="https://github.com/LuizMiguelSR/templateBootStrap/blob/main/img/fatecPgWhite.png?raw=true" style="width: 95px; margin-top: 10px; margin-right: 10px">            
+                    <a class="item" href="index.jsp">Home</a>
+                    <div class="ui simple dropdown item">
+                    Institucional
+                    <i class="dropdown icon"></i>
+                        <div class="menu">
+                            <div class="header">Quem Somos</div>
+                            <a class="item" href="sobre.jsp">Sobre a Fatec</a>
+                            <a class="item" href="regimento.jsp">Regimento e Regulamento</a>
+                            <a class="item" href="departamentos.jsp">Departamentos</a>
+                        </div>
+                    </div>
+                    <div class="ui simple dropdown item">
+                    Secretaria
+                    <i class="dropdown icon"></i>
+                        <div class="menu shadow">
+                            <a class="item" href="">Informações Gerais</a>
+                            <a class="item" href="">Documentos e Modelos</a>
+                            <a class="item" href="">Perguntas Frequentes</a>
+                            <a class="item" href="">Requerimentos</a>
+                        </div>
+                    </div>
+                    <div class="ui simple dropdown item">
+                    Calendário/Aulas
+                    <i class="dropdown icon"></i>
+                        <div class="menu">
+                            <a class="item" href="">Horários Aulas</a>
+                            <a class="item" href="">Calendário Acadêmico</a>
+                            <a class="item" href="">Professores</a>
+                        </div>
+                    </div>
+                    <div class="ui simple dropdown item">
+                    Sites
+                    <i class="dropdown icon"></i>
+                        <div class="menu">
+                            <a class="item" href="http://www.fatecpg.com.br/tic/default.aspx" target="_blank">DTI</a>
+                            <a class="item" href="https://edu.google.com/" target="_blank">Google for Education</a>
+                        </div>
+                    </div>
+                    <a class="item" href="" target="_blank">Núcleos de Pesquisa</a>
+                    <a class="item" href="" target="_blank">Vitrine de Negócios</a>
+                    <a class="item" href="https://fatecpg.edu.br/revista" target="_blank">Revista Processando o Saber </a>
+                    <div class="right menu">
+                        <a class="item" id="test">Login</a>
+                    </div>        
+                </div>
             </div>
         </div>
-        <div class="ui simple dropdown item">
-        Secretaria
-        <i class="dropdown icon"></i>
-            <div class="menu shadow">
-                <a class="item" href="">Informações Gerais</a>
-                <a class="item" href="">Documentos e Modelos</a>
-                <a class="item" href="">Perguntas Frequentes</a>
-                <a class="item" href="">Requerimentos</a>
+    </div>
+    <div class="tablet mobile only row">
+        <div class="column">
+            <div class="ui inverted menu" style="border-radius: 0em">
+                <a id="mobile_item" class="item"><i class="bars icon"></i></a>
+                <img class="ui stackable " src="https://github.com/LuizMiguelSR/templateBootStrap/blob/main/img/fatecPgWhite.png?raw=true" style="width: 75px; margin-top: 1em; margin-left: 5em">
             </div>
         </div>
-        <div class="ui simple dropdown item">
-        Calendário/Aulas
-        <i class="dropdown icon"></i>
-            <div class="menu">
-                <a class="item" href="">Horários Aulas</a>
-                <a class="item" href="">Calendário Acadêmico</a>
-                <a class="item" href="">Professores</a>
-            </div>
-        </div>
-        <div class="ui simple dropdown item">
-        Sites
-        <i class="dropdown icon"></i>
-            <div class="menu">
-                <a class="item" href="http://www.fatecpg.com.br/tic/default.aspx" target="_blank">DTI</a>
-                <a class="item" href="https://edu.google.com/" target="_blank">Google for Education</a>
-            </div>
-        </div>
-        <a class="item" href="" target="_blank">Núcleos de Pesquisa</a>
-        <a class="item" href="" target="_blank">Vitrine de Negócios</a>
-        <a class="item" href="https://fatecpg.edu.br/revista" target="_blank">Revista Processando o Saber </a>
-        <div class="right menu">
-            <a class="item" id="test">Login</a>
-        </div>        
-    </div>   
+    </div>
 </div>
-
 <!-- Modal Login -->
 <div class="ui modal test stackable">
     <i class="close icon stackable"></i>
@@ -83,4 +96,5 @@
         </div>
     </div>
     </div>
-</div> 
+</div>
+<div class="ui pushable segment" style="border-color: rgba(0,0,0,.87); border-radius: 0em">
