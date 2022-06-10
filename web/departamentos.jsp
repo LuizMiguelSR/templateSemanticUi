@@ -35,7 +35,6 @@
                 <a class="item" data-tab="tab4">Biblioteca</a>
                 <a class="item" data-tab="tab5">CIPA</a>
                 <a class="item" data-tab="tab6">Horário de Funcionamento</a>
-                <a class="item" data-tab="tab7">Third</a>
             </div>
             <div class="ui bottom attached tab segment active" data-tab="tab1">
                 <p>
@@ -247,7 +246,7 @@
                         <thead>
                             <tr class="center aligned">
                                 <th>Dias</th>
-                                <th>Coordernador(a) Fernanda Schmitz</th>
+                                <th>Coordernador(a) Fernanda</th>
                             </tr>
                         </thead>
                         <tbody>

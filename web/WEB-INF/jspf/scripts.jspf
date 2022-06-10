@@ -33,6 +33,12 @@
             context: $('.ui.pushable.segment'),
             transition: 'overlay'
         }).sidebar('attach events', '#mobile_item');
+        
+        $('.ui.accordion').accordion({
+            selector: {
+                trigger: '.title'
+            }
+        });
     });
 </script>
 

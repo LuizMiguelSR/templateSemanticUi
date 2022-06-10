@@ -12,22 +12,12 @@
                     Institucional
                     <i class="dropdown icon"></i>
                         <div class="menu">
-                            <div class="header">Quem Somos</div>
                             <a class="item" href="sobre.jsp">Sobre a Fatec</a>
                             <a class="item" href="regimento.jsp">Regimento e Regulamento</a>
                             <a class="item" href="departamentos.jsp">Departamentos</a>
                         </div>
                     </div>
-                    <div class="ui simple dropdown item">
-                    Secretaria
-                    <i class="dropdown icon"></i>
-                        <div class="menu shadow">
-                            <a class="item" href="">Informações Gerais</a>
-                            <a class="item" href="">Documentos e Modelos</a>
-                            <a class="item" href="">Perguntas Frequentes</a>
-                            <a class="item" href="">Requerimentos</a>
-                        </div>
-                    </div>
+                    <a class="item" href="secretaria.jsp">Secretaria</a>
                     <div class="ui simple dropdown item">
                     Calendário/Aulas
                     <i class="dropdown icon"></i>
