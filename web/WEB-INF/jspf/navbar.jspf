@@ -24,7 +24,7 @@
                         <div class="menu">
                             <a class="item" href="">Horários Aulas</a>
                             <a class="item" href="">Calendário Acadêmico</a>
-                            <a class="item" href="">Professores</a>
+                            <a class="item" href="professores.jsp">Professores</a>
                         </div>
                     </div>
                     <div class="ui simple dropdown item">

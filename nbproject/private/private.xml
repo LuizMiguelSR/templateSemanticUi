@@ -6,15 +6,14 @@
             <file>file:/mnt/Arquivos/Meus_Documentos/ArquivosAcademicos/Projetos/templateSemanticUi/web/index.jsp</file>
         </group>
         <group name="SiteFatec">
-            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/navbar.jspf</file>
-            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/departamentos.jsp</file>
-            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/css.jspf</file>
-            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/index.jsp</file>
-            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/footer.jspf</file>
-            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/secretaria.jsp</file>
-            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/header.jspf</file>
             <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/scripts.jspf</file>
+            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/professores2.jspf</file>
+            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/professores1.jspf</file>
             <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/navbarVertical.jspf</file>
+            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/css.jspf</file>
+            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/professores.jsp</file>
+            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/navbar.jspf</file>
+            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/index.jsp</file>
         </group>
     </open-files>
 </project-private>
