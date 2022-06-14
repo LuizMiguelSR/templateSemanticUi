@@ -36,4 +36,8 @@
     - Páginas estática “Secretaria” #06;
   - [Versão 0.12 - 13.06.2022](https://github.com/LuizMiguelSR/templateSemanticUi/commit/e7c746a7fb35c287b6d7cbf9bbeee116ad7aae68)
     - Calendário/Aulas - Páginas relacionadas a professores;
-  
+  - [Versão 0.13 - 14.06.2022](https://github.com/LuizMiguelSR/templateSemanticUi/commit/27988a60e55b539c05a7c9b9b89a40dbb30d2c19)
+    - Revisão de Páginas #01;
+      - [x]  Ajustes no título de todas as páginas;
+      - [x]  Ajustes nos cards relacionados a cursos;
+      - [x]  Alterações nas margens e inserção deles na stylesheet.
