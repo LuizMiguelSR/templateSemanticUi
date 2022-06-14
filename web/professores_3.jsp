@@ -28,9 +28,18 @@
         <%@include file="WEB-INF/jspf/header.jspf" %>
         
         
-        <div class="ui container main stackable">
+        <div class="ui container main stackable">            
+            <!-- Title teachers -->
+            <div class="ui container main grid centered stackable">
+                <h2 class="ui header">
+                <i class="graduation cap icon"></i>
+                    <div class="content">
+                        Professores
+                    </div>
+                </h2>
+            </div>
+            <div class="ui box header"></div>
             
-            <h1>Professores </h1>
             <div class="ui red table stackable">
                 <table class="table table-hover">
                     <thead>
@@ -108,7 +117,7 @@
                   >>
                 </a>
             </div>
-        </div>
+        </div><br/><br/><br/>
         
         <%@include file="WEB-INF/jspf/footer.jspf" %>
     </body>

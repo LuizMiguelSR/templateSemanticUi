@@ -55,7 +55,7 @@
                 </div>
             </div>
         </div>
-        <!-- Modal Login Mobile -->
+        <!-- Modal Login -->
         <div class="ui modal test stackable">
             <i class="close icon stackable"></i>
             <div class="ui placeholder segment stackable">
@@ -90,4 +90,4 @@
         </div>
     </div>
 </div>
-<div class="ui pushable segment" style="border-color: rgba(0,0,0,.87); border-radius: 0em">
+<div class="ui pushable segment" style="border-color: rgba(0,0,0,.87); border-radius: 0em; background-color: #f3f3f3;">

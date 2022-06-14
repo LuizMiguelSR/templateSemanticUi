@@ -28,6 +28,16 @@
         <%@include file="WEB-INF/jspf/header.jspf" %>
         
         <div class="ui container main stackable">
+            <!-- Title about Secretaria -->
+            <div class="ui container main grid centered stackable">
+                <h2 class="ui header">
+                <i class="clipboard icon"></i>
+                    <div class="content">
+                        Secretaria
+                    </div>
+                </h2>
+            </div>
+            <div class="ui box header"></div>
             
             <div class="ui secondary pointing menu stackable">
                 <a class="item active" data-tab="tab1">Horário</a>
@@ -292,7 +302,7 @@
             <div class="ui bottom attached tab segment" data-tab="tab4">
                 
             </div>
-        </div>
+        </div><br/><br/><br/>
         
         <%@include file="WEB-INF/jspf/footer.jspf" %>
     </body>

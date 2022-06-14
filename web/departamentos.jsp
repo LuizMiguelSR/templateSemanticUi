@@ -28,6 +28,17 @@
         <%@include file="WEB-INF/jspf/header.jspf" %>
         
         <div class="ui container main stackable">
+            <!-- Title Departments -->
+            <div class="ui container main grid centered stackable">
+                <h2 class="ui header">
+                <i class="graduation cap icon"></i>
+                    <div class="content">
+                        Departamentos da FATEC Praia Grande
+                    </div>
+                </h2>
+            </div>
+            <div class="ui box header"></div>
+            
             <div class="ui secondary pointing menu stackable">
                 <a class="item active" data-tab="tab1">Direção</a>
                 <a class="item" data-tab="tab2">Coordenação de cursos</a>
@@ -309,7 +320,7 @@
                     </table>
                 </div>            
             </div>
-        </div>
+        </div><br/><br/><br/>
         
         <%@include file="WEB-INF/jspf/footer.jspf" %>
     </body>

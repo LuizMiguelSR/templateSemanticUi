@@ -27,7 +27,18 @@
         
         <%@include file="WEB-INF/jspf/header.jspf" %>
         
-        <div class="ui container main stackable"> 
+        <div class="ui container main stackable">
+            <!-- Title About Fatec -->
+            <div class="ui container main grid centered stackable">
+                <h2 class="ui header">
+                <i class="graduation cap icon"></i>
+                    <div class="content">
+                        Sobre a FATEC Praia Grande
+                    </div>
+                </h2>
+            </div>
+            <div class="ui box header"></div>
+            
             <h3><strong>Sobre o Município de Praia Grande</strong></h3>
             <p>
                 O município de Praia Grande possui uma população fixa de 305.000 habitantes. 
@@ -130,7 +141,7 @@
                 Praça 19 de janeiro, 144 - Praia Grande - São Paulo - Cep: 11700-100
             </p>
             <br>
-        </div>
+        </div><br/><br/><br/>
         
         <%@include file="WEB-INF/jspf/footer.jspf" %>
     </body>

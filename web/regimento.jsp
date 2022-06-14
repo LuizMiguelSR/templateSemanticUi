@@ -28,7 +28,17 @@
         <%@include file="WEB-INF/jspf/header.jspf" %>
         
         <div class="ui container main stackable">
-            <h1>Regimento e Regulamento</h1>
+            <!-- Title About Rules -->
+            <div class="ui container main grid centered stackable">
+                <h2 class="ui header">
+                <i class="clipboard icon"></i>
+                    <div class="content">
+                        Regimento e Regulamento
+                    </div>
+                </h2>
+            </div>
+            <div class="ui box header"></div>
+            
             <%@include file="WEB-INF/jspf/socialOverlay.jspf" %>
             <p>As Fatecs possuem um Regimento Geral e um Regulamento de Graduação que determinam os direitos e deveres de sua comunidade.</p>
             <p>Abaixo está disponível uma versão resumida com as principais informações contidas em ambos, ideal para alunos tomarem ciência de seus principais direitos e deveres. Ainda assim, é possível acessar cada um dos documentos na íntegra.</p>
@@ -47,7 +57,7 @@
             <div class="ui small modal pdf3 stackable">
                 <i class="close icon stackable"></i>
                 <object class="pdf" data="pdf/documento3.pdf" type="application/pdf" width="100%" height="1080px">Seu navegador não suporta PDFs, para ter acesso a este PDF faça o <a style="margin: 40px" href="pdf/documento3.pdf" download="regulamento-graduacao-20091214">download aqui</a>.</object>
-            </div><br>
+            </div><br><br/><br/><br/>
         </div>
         <%@include file="WEB-INF/jspf/footer.jspf" %>
     </body>    
