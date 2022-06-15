@@ -41,3 +41,8 @@
       - [x]  Ajustes no título de todas as páginas;
       - [x]  Ajustes nos cards relacionados a cursos;
       - [x]  Alterações nas margens e inserção deles na stylesheet.
+  - [Versão 0.14 - 15.06.2022](https://github.com/LuizMiguelSR/templateSemanticUi/commit/a7881f411bcddd034f07e0d5b205c0d7b140c0ca)
+    - Páginas estáticas “Cursos” #08;
+      - [x]  Configuração dos menus de ADS
+      - [x]  Inserção de parte da Matriz Curricular
+      - [x]  Inserção do conteúdo sobre estágio
