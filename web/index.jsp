@@ -42,7 +42,7 @@
             <div class="ui box header"></div>
 
             <div class="ui four link cards centered stackable">
-                <div class="card">
+                <a class="card" href="ads.jsp">
                     <div class="image">
                         <img src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZGV2ZWxvcGVyJTIwd29ya2luZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60">
                     </div>
@@ -58,8 +58,8 @@
                             Períodos: Vespertino e Noturno
                         </span>
                     </div>
-                </div>
-                <div class="card">
+                </a>
+                <a class="card" href="comex.jsp">
                     <div class="image">
                         <img src="https://images.unsplash.com/photo-1578575437130-527eed3abbec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80">
                     </div>
@@ -75,8 +75,8 @@
                             Períodos: Matutino e Noturno
                         </span>
                   </div>
-                </div>
-                <div class="card">
+                </a>
+                <a class="card" href="ge.jsp">
                     <div class="image">
                         <img src="https://fatecpg.edu.br/img/ge.png">
                     </div>
@@ -92,8 +92,8 @@
                             Períodos: Matutino e Noturno
                         </span>
                     </div>
-                </div>
-                <div class="card">
+                </a>
+                <a class="card" href="pq.jsp">
                     <div class="image">
                         <img src="https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80">
                     </div>
@@ -109,7 +109,7 @@
                             Períodos: Matutino e Noturno
                         </span>
                     </div>
-                </div>                    
+                </a>                    
             </div>
 
             <!-- Title and card with News and Events -->

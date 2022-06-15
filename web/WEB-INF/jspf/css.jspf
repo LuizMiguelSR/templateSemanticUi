@@ -57,6 +57,12 @@
     .ui.container.main.grid.centered.stackable{
         margin-bottom: 1.5em;
     }
+    .ui.small.left.rounded.floated.image{
+        margin-right: 3em; 
+        margin-left: 0.25em; 
+        box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+        width: 15em;
+    }
     #content {
         min-height: 100px;
     }
