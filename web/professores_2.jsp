@@ -149,6 +149,18 @@
                 <a class="item" href="professores_1.jsp">
                   <<
                 </a>
+                <a class="item" href="professores.jsp">
+                  1
+                </a>
+                <a class="item" href="professores_1.jsp">
+                  2
+                </a>
+                <a class="item active"><b>
+                  3
+                </b></a>
+                <a class="item" href="professores_3.jsp">
+                  4
+                </a>
                 <a class="item" href="professores_3.jsp">
                   >>
                 </a>

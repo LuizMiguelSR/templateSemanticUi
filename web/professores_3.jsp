@@ -113,9 +113,21 @@
                 <a class="item" href="professores_2.jsp">
                   <<
                 </a>
-                <a class="item active">
-                  >>
+                <a class="item" href="professores.jsp">
+                  1
                 </a>
+                <a class="item" href="professores_1.jsp">
+                  2
+                </a>
+                <a class="item" href="professores_2.jsp">
+                  3
+                </a>
+                <a class="item active"><b>
+                  4
+                </b></a>
+                <a class="item active"><b>
+                  >>
+                </b></a>
             </div>
         </div><br/><br/><br/>
         

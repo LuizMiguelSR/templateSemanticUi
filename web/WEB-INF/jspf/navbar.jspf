@@ -15,6 +15,18 @@
                             <a class="item" href="sobre.jsp">Sobre a Fatec</a>
                             <a class="item" href="regimento.jsp">Regimento e Regulamento</a>
                             <a class="item" href="departamentos.jsp">Departamentos</a>
+                            <a class="item" href="http://www.fatecpg.com.br/tic/default.aspx" target="_blank">DTI</a>
+                            <a class="item" href="https://edu.google.com/" target="_blank">Google for Education</a>
+                        </div>
+                    </div>
+                    <div class="ui simple dropdown item">
+                    Cursos
+                    <i class="dropdown icon"></i>
+                        <div class="menu">
+                            <a class="item" href="ads.jsp">Análise e Desenvolvimento de Sistemas</a>
+                            <a class="item" href="comex.jsp">Comércio Exterior</a>
+                            <a class="item" href="ge.jsp">Gestão Empresarial</a>
+                            <a class="item" href="pq.jsp">Processos Químicos</a>
                         </div>
                     </div>
                     <a class="item" href="secretaria.jsp">Secretaria</a>
@@ -28,16 +40,14 @@
                         </div>
                     </div>
                     <div class="ui simple dropdown item">
-                    Sites
+                    Projetos
                     <i class="dropdown icon"></i>
                         <div class="menu">
-                            <a class="item" href="http://www.fatecpg.com.br/tic/default.aspx" target="_blank">DTI</a>
-                            <a class="item" href="https://edu.google.com/" target="_blank">Google for Education</a>
+                            <a class="item" href="" target="_blank">Núcleos de Pesquisa</a>
+                            <a class="item" href="" target="_blank">Vitrine de Negócios</a>
+                            <a class="item" href="https://fatecpg.edu.br/revista" target="_blank">Revista Processando o Saber </a>
                         </div>
-                    </div>
-                    <a class="item" href="" target="_blank">Núcleos de Pesquisa</a>
-                    <a class="item" href="" target="_blank">Vitrine de Negócios</a>
-                    <a class="item" href="https://fatecpg.edu.br/revista" target="_blank">Revista Processando o Saber </a>
+                    </div>                    
                     <div class="right menu">
                         <a class="item" id="test">Login</a>
                     </div>        

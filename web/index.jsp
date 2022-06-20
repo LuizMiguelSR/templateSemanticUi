@@ -41,15 +41,15 @@
             </div>
             <div class="ui box header"></div>
 
-            <div class="ui four link cards centered stackable">
+            <div class="ui four link cards stackable">
                 <a class="card" href="ads.jsp">
                     <div class="image">
                         <img src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZGV2ZWxvcGVyJTIwd29ya2luZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60">
                     </div>
-                    <div class="content">
+                    <div class="content" style="text-align: center">
                         <div class="header">Análise e Desenvolvimento de Sistemas</div>
                     </div>
-                    <div class="extra content">
+                    <div class="extra content" style="text-align: center">
                         <span class="floated">
                             <i class="calendar icon"></i>
                             Duração: 3 anos
@@ -63,10 +63,10 @@
                     <div class="image">
                         <img src="https://images.unsplash.com/photo-1578575437130-527eed3abbec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80">
                     </div>
-                    <div class="content">
+                    <div class="content" style="text-align: center">
                         <div class="header">Comércio Exterior</div>
                     </div>
-                  <div class="extra content">
+                  <div class="extra content" style="text-align: center">
                         <span class="floated">
                             <i class="calendar icon"></i>
                             Duração: 3 anos
@@ -80,10 +80,10 @@
                     <div class="image">
                         <img src="https://fatecpg.edu.br/img/ge.png">
                     </div>
-                    <div class="content">
+                    <div class="content" style="text-align: center">
                         <div class="header">Gestão Empresarial</div>
                     </div>
-                    <div class="extra content">
+                    <div class="extra content" style="text-align: center">
                         <span class="floated">
                             <i class="calendar icon"></i>
                             Duração: 3 anos
@@ -97,10 +97,10 @@
                     <div class="image">
                         <img src="https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80">
                     </div>
-                    <div class="content">
+                    <div class="content" style="text-align: center">
                         <div class="header">Processos Químicos</div>
                     </div>
-                    <div class="extra content">
+                    <div class="extra content" style="text-align: center">
                         <span class="floated">
                             <i class="calendar icon"></i>
                             Duração: 3 anos

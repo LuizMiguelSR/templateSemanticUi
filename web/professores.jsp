@@ -145,8 +145,20 @@
                 </table>
             </div>
             <div class="ui pagination menu">
-                <a class="item active">
+                <a class="item active"><b>
                   <<
+                </b></a>
+                <a class="item active"><b>
+                  1
+                </b></a>
+                <a class="item" href="professores_1.jsp">
+                  2
+                </a>
+                <a class="item" href="professores_2.jsp">
+                  3
+                </a>
+                <a class="item" href="professores_3.jsp">
+                  4
                 </a>
                 <a class="item" href="professores_1.jsp">
                   >>

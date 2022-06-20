@@ -17,7 +17,7 @@
         
         <link rel="icon" href="https://fatecpg.edu.br/img/icone.png">
         
-        <title>Fatec PG - ADS</title>
+        <title>Fatec PG - GE</title>
     </head>
     <body>
         <%@include file="WEB-INF/jspf/scripts.jspf" %>
@@ -35,7 +35,7 @@
                 <h2 class="ui header">
                 <i class="graduation cap icon"></i>
                     <div class="content">
-                        Análise e Desenvolvimento de Sistesmas
+                        Gestão Empresarial
                     </div>
                 </h2>
             </div>
@@ -64,40 +64,40 @@
                     </div>
                 </div>
             </div>
-            <div class="ui bottom attached tab segment active" data-tab="tab1">
+            <div class="ui bottom attached tab segment active stackable" data-tab="tab1">
                 <h2 style="text-align: center">Sobre o Curso</h2>
-                <img class="ui large centered rounded image" src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80" alt="Foto de divulgação do curso">
+                <img class="ui large centered rounded image" src="https://fatecpg.edu.br/img/ge.png" alt="Foto de divulgação do curso">
                 <p style="margin-top: 0.5em; font-size: 1.2em; text-align: center"> 
-                    O profissional de Análise e Desenvolvimento de Sistemas de Informação pode atuar em empresas de 
-                    assessoria e consultoria tecnológica e de desenvolvimento de sistemas, assim como nos diversos 
-                    setores da economia: indústria, comércio, prestação de serviços, instituições financeiras, órgãos 
-                    públicos ou como empreendedor em informática. Este profissional estará apto a:
+                    Os profissionais formados podem atuar tanto em âmbito nacional, como gestor, em razão da formação generalista e/ou polivalente, 
+                    como em âmbito estadual com as competências específicas para atuar nas peculiaridades da economia estadual/regional nas 
+                    seguintes possibilidades:
+                    
                 </p>
                 <ul style="font-size: 1.2em;">
-                    <li> Projetar e implementar sistemas de acordo com as necessidades institucionais; </li>
-                    <li> Coordenar infra-estruturas de tecnologia da informação, elaborando políticas e diretrizes a partir da análise de necessidades; </li>
-                    <li> Realizar consultoria em Sistemas de Informação, avaliando e selecionando recursos de software e hardware; </li>
-                    <li> Atuar em Centros de Pesquisa, de Ensino ou de desenvolvimento de software; </li>
-                    <li> Empreender seu próprio negócio em informática. </li>
+                    <li> Em seu próprio negócio (consultoria, turismo, comércio, indústria etc.); </li>
+                    <li> Em pequenas empresas; </li>
+                    <li> Na continuidade de empresas familiares, modernizando-as; </li>
+                    <li> Nas médias empresas da região; </li>
+                    <li> No setor público; </li>
+                    <li> Nas entidades particulares, tais como: cooperativas, associações, dentre outras.</li>
                 </ul>
                 
-                
-                <h3 style="text-align: center"><strong>Coordenador do Curso de Análise e Desenvolvimento de Sistemas</strong></h3>
-                <h4 style="text-align: center">Prof.º Nilson Carlos Duarte da Silva</h4>
+                <h3 style="text-align: center"><strong>Coordenador do Curso de Gestão Empresarial</strong></h3>
+                <h4 style="text-align: center">Prof.º João Carlos Gomes</h4>
                     <div class="ui two column very relaxed grid stackable" style="text-align: center">
                         <div class="column">
                             <span class="floated">
                                 <i class="envelope icon"></i>
                                 Email
                             </span><br>
-                            <a href="mailto:nilson.silva15@fatec.sp.gov.br">nilson.silva15@fatec.sp.gov.br</a>
+                            <a href="mailto:joao.gomes33@fatec.sp.gov.br">joao.gomes33@fatec.sp.gov.br</a>
                         </div>
                         <div class="column">
                             <span class="floated">
                                 <i class="globe icon"></i>
                                 Lattes
                             </span><br>
-                            <a href="http://lattes.cnpq.br/7733125441252426" target="_blank">Acessar currículo Lattes</a>
+                            <a href="http://lattes.cnpq.br/1604202649304533" target="_blank">Acessar currículo Lattes</a>
                         </div>
                     </div>                                    
             </div>
@@ -260,15 +260,15 @@
             </div>
             <div class="ui bottom attached tab segment" data-tab="tab3">
                 <h2>Sobre o estágio</h2>
-                <p style="font-size: 1.2em; text-align: justify">A regulamentação do estágio curricular supervisionado tem por finalidade estabelecer os critérios de realização e validação do estágio dos alunos do curso, bem como suas rotinas, seu processo de acompanhamento e avaliação. De acordo com a Lei nº 11.788, de 25 de setembro de 2008, estágio é o ato educativo curricular supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho produtivo do estudante, desenvolvida sob supervisão de responsáveis, tanto por parte da empresa concedente quanto por parte da Fatec.</p>
-                <p style="font-size: 1.2em; text-align: justify">Além de ser um requisito obrigatório para a conclusão do curso de graduação, o estágio se constitui em instrumento de integração, treinamento prático, aperfeiçoamento técnico, cultural, científico e de relacionamento humano. Também é peça importante para a qualificação profissional do aluno, pois durante sua realização ele aplicará seus conhecimentos e, consequentemente adquirirá experiências práticas, o que certamente irá enriquecer e sedimentar o aproveitamento do conteúdo teórico lhe foi oferecido durante o curso.</p>
-                <p style="font-size: 1.2em; text-align: justify">O programa de estágio é, neste sentido, uma busca pela complementação do ensino e da aprendizagem em conformidade com o conteúdo das disciplinas. Também procura capacitar o aluno na identificação de problemas e na proposição fundamentada de soluções dentro do contexto organizacional empresarial, a partir de uma perspectiva teórico/metodológica/científica.</p>
+                <p>A regulamentação do estágio curricular supervisionado tem por finalidade estabelecer os critérios de realização e validação do estágio dos alunos do curso, bem como suas rotinas, seu processo de acompanhamento e avaliação. De acordo com a Lei nº 11.788, de 25 de setembro de 2008, estágio é o ato educativo curricular supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho produtivo do estudante, desenvolvida sob supervisão de responsáveis, tanto por parte da empresa concedente quanto por parte da Fatec.</p>
+                <p>Além de ser um requisito obrigatório para a conclusão do curso de graduação, o estágio se constitui em instrumento de integração, treinamento prático, aperfeiçoamento técnico, cultural, científico e de relacionamento humano. Também é peça importante para a qualificação profissional do aluno, pois durante sua realização ele aplicará seus conhecimentos e, consequentemente adquirirá experiências práticas, o que certamente irá enriquecer e sedimentar o aproveitamento do conteúdo teórico lhe foi oferecido durante o curso.</p>
+                <p>O programa de estágio é, neste sentido, uma busca pela complementação do ensino e da aprendizagem em conformidade com o conteúdo das disciplinas. Também procura capacitar o aluno na identificação de problemas e na proposição fundamentada de soluções dentro do contexto organizacional empresarial, a partir de uma perspectiva teórico/metodológica/científica.</p>
 
                 <br/>
                 <h2>Informações úteis</h2>
-                <p style="font-size: 1.2em; text-align: justify"> • A entrega da documentação de estágio somente será permitida a partir do <strong> 4º semestre do curso </strong>, a fim de que o aluno obter os conhecimentos necessários para avaliar se realmente sua experiência é compatível com a proposta acadêmica do mesmo;</p>
-                <p style="font-size: 1.2em; text-align: justify"> • A lei estabelece uma <strong>carga horária máxima</strong>. O <strong style="color: red">aluno nunca poderá realizar mais do que 6 (seis) horas diárias e 30 (trinta) horas semanais</strong>.</p>
-                <p style="font-size: 1.2em; text-align: justify"> • Não pode ocorrer conflito de horário de estágio com o horário das atividades acadêmicas.</p>
+                <p> • A entrega da documentação de estágio somente será permitida a partir do <strong> 4º semestre do curso </strong>, a fim de que o aluno obter os conhecimentos necessários para avaliar se realmente sua experiência é compatível com a proposta acadêmica do mesmo;</p>
+                <p> • A lei estabelece uma <strong>carga horária máxima</strong>. O <strong style="color: red">aluno nunca poderá realizar mais do que 6 (seis) horas diárias e 30 (trinta) horas semanais</strong>.</p>
+                <p> • Não pode ocorrer conflito de horário de estágio com o horário das atividades acadêmicas.</p>
                 <br/>
             </div>
             <div class="ui bottom attached tab segment" data-tab="tab4">

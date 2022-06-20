@@ -1,16 +1,23 @@
 <%-- any content can be specified here e.g.: --%>
 <%@ page pageEncoding="UTF-8" %>
 <div class="ui sidebar inverted vertical menu">
+    <a class="item"><b>INSTITUCIONAL</b></a>
     <a class="item" href="sobre.jsp">Sobre a Fatec</a>
     <a class="item" href="regimento.jsp">Regimento e Regulamento</a>
     <a class="item" href="departamentos.jsp">Departamentos</a>
     <a class="item" href="secretaria.jsp">Secretaria</a>
-    <a class="item"><b>Calendário/Aulas</b></a>
+    <a class="item" href="http://www.fatecpg.com.br/tic/default.aspx" target="_blank">DTI</a>
+    <a class="item" href="https://edu.google.com/" target="_blank">Google for Education</a>
+    <a class="item"><b>CURSOS</b></a>
+    <a class="item" href="ads.jsp">Análise e Desenvolvimento de Sistemas</a>
+    <a class="item" href="comex.jsp">Comércio Exterior</a>
+    <a class="item" href="ge.jsp">Gestão Empresarial</a>
+    <a class="item" href="pq.jsp">Processos Químicos</a>
+    <a class="item"><b>CALENDÁRIO/AULAS</b></a>
     <a class="item" href="">Horários Aulas</a>
     <a class="item" href="">Calendário Acadêmico</a>
     <a class="item" href="professores.jsp">Professores</a>
-    <a class="item" href="http://www.fatecpg.com.br/tic/default.aspx" target="_blank">DTI</a>
-    <a class="item" href="https://edu.google.com/" target="_blank">Google for Education</a>
+    <a class="item"><b>PROJETOS</b></a>
     <a class="item" href="" target="_blank">Núcleos de Pesquisa</a>
     <a class="item" href="" target="_blank">Vitrine de Negócios</a>
     <a class="item" href="https://fatecpg.edu.br/revista" target="_blank">Revista Processando o Saber </a>
