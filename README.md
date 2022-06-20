@@ -43,6 +43,11 @@
       - [x]  Alterações nas margens e inserção deles na stylesheet.
   - [Versão 0.14 - 15.06.2022](https://github.com/LuizMiguelSR/templateSemanticUi/commit/a7881f411bcddd034f07e0d5b205c0d7b140c0ca)
     - Páginas estáticas “Cursos” #08;
-      - [x]  Configuração dos menus de ADS
-      - [x]  Inserção de parte da Matriz Curricular
-      - [x]  Inserção do conteúdo sobre estágio
+      - [x]  Configuração dos menus de ADS;
+      - [x]  Inserção de parte da Matriz Curricular;
+      - [x]  Inserção do conteúdo sobre estágio.
+  - [Versão 0.15 - 20.06.2022](https://github.com/LuizMiguelSR/templateSemanticUi/commit/2807923fd6b0154734b8d970b0bfea4139dd4294)
+    - Páginas estáticas “Cursos” #09;
+      - [x]  Criação do conteúdo do curso de Gestão Empresarial;
+      - [x]  Enxugamento do menu;
+      - [x]  Página mais definida no conteúdo professores.
