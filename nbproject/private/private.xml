@@ -5,8 +5,6 @@
         <group name="FatecSite">
             <file>file:/mnt/Arquivos/Meus_Documentos/ArquivosAcademicos/Projetos/templateSemanticUi/web/index.jsp</file>
         </group>
-        <group name="SiteFatec">
-            <file>file:/C:/Users/Luiz/Documents/NetBeansProjects/templateSemanticUi/web/WEB-INF/jspf/header.jspf</file>
-        </group>
+        <group name="SiteFatec"/>
     </open-files>
 </project-private>
