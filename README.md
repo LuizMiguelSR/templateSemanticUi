@@ -6,6 +6,9 @@
 
 - ### **Projeto desenvolvido na linguagem Java Web, utilizando o framework front end [Semantic UI](https://semantic-ui.com/)**
 
+  <details>
+  <summary> Fase de Desenvolvimento do Template </summary>
+
   - [Versão 0.01 - 23.05.2022](https://github.com/LuizMiguelSR/templateSemanticUi/commit/95e0fba91b41e5ff03bfbd31efa63296402eb72a) 
     - Definições do menu;
   - [Versão 0.02 - 34.05.2022](https://github.com/LuizMiguelSR/templateSemanticUi/commit/6885e484d6b657ca877524ef81ad9ab6eed07741) 
@@ -51,3 +54,4 @@
       - [x]  Criação do conteúdo do curso de Gestão Empresarial;
       - [x]  Enxugamento do menu;
       - [x]  Página mais definida no conteúdo professores.
+  </details>
